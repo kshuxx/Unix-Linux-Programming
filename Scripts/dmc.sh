@@ -33,7 +33,7 @@ echo "Student Address            : $address"
 if test $avg -gt 60
 	then
 		echo "Result : FIRST  DIVISION"
-elif test $avg -lt 60 -a $avg -gt 50
+elif test $avg -lt 60 -a $avg -ge 50
 	then
 		echo "Result : SECOND DIVISION"
 elif test $avg -lt 50 -a $avg -ge 40
