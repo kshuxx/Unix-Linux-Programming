@@ -35,25 +35,16 @@ while true
 			3)
 			echo "Enter Source File Name: "
 			read sname;
-			echo "Enter The Data Into File (Press ctrl + d to Save) : "
-			cat > $sname
-			echo "\nEnter Target File Name : "
-			read tname;
+			echo "\nEnter New File Name : "
+			read rname;
 			mv $sname $tname
-			echo "\nSource File Data : "
-			cat $sname
-			echo "\nTarget File Data : "
-			cat $tname
+			echo "Your file is renamed successfully as: $rname"
 			;;
 			4)
 			echo "Enter Source File Name: "
 			read sname;
-			echo "Enter The Data Into File (Press ctrl + d to Save) : "
-			cat > $sname
-			echo "\nEdit Your File : "
 			rm $sname
-			echo "\nSource File Data : "
-			cat $sname
+			echo "File is deleted!!!"
 			;;
 			5)
 			exit
