@@ -1,38 +1,31 @@
-# Unix Linux Programming
+# ⚙️ Unix & Linux Programming ⚙️
 
-This repo contains the following SHELL scripts
+Welcome to the **Unix & Linux Programming** repository! This repo features a collection of useful shell scripts to get you started on your journey with Unix/Linux programming.
 
-[![Run on Repl.it](https://repl.it/badge/github/SoGoodShubh/Unix-Linux-Programming.git)](https://repl.it/github/SoGoodShubh/Unix-Linux-Programming.git)
+## 🛠️ Scripts Included
 
-- Basic Calculator using bc and expr command.
-- Electricity bill generator.
-- DMC 
-- Find the largest of three numbers.
-- Find the Factorial of the given number.
-- Perform Operations Like “Rename, Edit, 
-Copy, Remove and Exit” Using Cases.
-- Conversion of lowercase to uppercase and vice versa.
-- Shell script to “listing files, present working directory,
-running processes and display current system date”.
-- Sort the numbers.
-- Sort the names in alphabetical order.
-- Merge two files.
+- 🧮 Basic Calculator using `bc` and `expr` commands.
+- 💡 Electricity Bill Generator.
+- 📝 DMC (Document Management Console).
+- 🔍 Find the Largest of Three Numbers.
+- ✨ Factorial Calculator.
+- 🔄 Operations: Rename, Edit, Copy, Remove, and Exit (Using Cases).
+- 🔠 Case Conversion: Lowercase to Uppercase and vice versa.
+- 📁 File Listing, Current Directory, Running Processes, and Date Display.
+- 📊 Sort Numbers.
+- 🔤 Sort Names Alphabetically.
+- 📂 Merge Two Files.
 
-## RUN
+## 🚀 How to Run
 
-To run these scripts please consider the <b>Example</b> below:
+To run these scripts, use the following command:
 
-### Syntax :
-```bash
+```sh
 sh [filename.sh]
 ```
 
-### Example :
-
-If you want to run the dmc.sh script, just go to that directory that contains the script and write the bellow command in the terminal.
-
-```bash
+### Example:
+```sh
 sh dmc.sh
 ```
-
-This will run the dmc script for you, For other scripts just follow the mentioned syntax and you are good to go✨
+This will execute the `dmc.sh` script. For other scripts, replace `dmc.sh` with the appropriate file name.
