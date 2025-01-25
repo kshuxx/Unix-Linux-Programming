@@ -6,7 +6,7 @@ Welcome to the **Unix & Linux Programming** repository! This repo features a col
 
 - 🧮 Basic Calculator using `bc` and `expr` commands.
 - 💡 Electricity Bill Generator.
-- 📝 DMC (Document Management Console).
+- 📝 DMC (Detailed Marks Certificatee).
 - 🔍 Find the Largest of Three Numbers.
 - ✨ Factorial Calculator.
 - 🔄 Operations: Rename, Edit, Copy, Remove, and Exit (Using Cases).
